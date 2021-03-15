@@ -9,7 +9,7 @@
 
 An ergonomic physics API for 2d and 3d [bevy] games. (powered by [rapier])
 
-## How it looks like
+## What it looks like
 
 ```rust
 fn main() {

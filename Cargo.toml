@@ -32,6 +32,10 @@ name = "demo"
 required-features = ["2d"]
 
 [[example]]
+name = "manual-basic"
+required-features = ["2d"]
+
+[[example]]
 name = "debug"
 required-features = ["2d", "debug"]
 
